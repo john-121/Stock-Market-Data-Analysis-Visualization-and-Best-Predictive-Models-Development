@@ -18,13 +18,13 @@ This project focuses on analyzing and visualizing historical stock market data f
    # Bivariate Analysis -
    -Correlation Analysis: Analyzed the correlations between stock prices of Nike, Adidas, PepsiCo, and Sony.
    - Heatmap: Visualized the correlation matrix using a heatmap.
-   ### Price vs. Trading Volume Analysis
-   - Volume Conversion: Converted trading volume data from string format to numeric values. 
+   # Price vs. Trading Volume Analysis
+    - Volume Conversion: Converted trading volume data from string format to numeric values. 
    - Correlation Analysis:** Calculated the correlation between price and trading volume for each stock. - 
    - Visualizations: - Scatter Plots:** Visualized the relationship between price and trading
-  7. ### Predictive Modeling:
+  7.  # predictive Modeling:
 -Model Selection: Chose appropriate predictive models such as ARIMA, LSTM, and others.
--Model Training: Trained the models using historical stock price data.
+-Model Taining: Trained the models using historical stock price data.
 -Model Evaluation: Evaluated the models using metrics like RMSE (Root Mean Squared Error).
 -Hyperparameter Tuning: Fine-tuned model hyperparameters to optimize performance.
 Results:-Nike LSTM RMSE: 53.12
@@ -51,4 +51,4 @@ Results:-Nike LSTM RMSE: 53.12
 - others...
 
 ## Acknowledgements
--I would like to thank all the resources and communities that have provided invaluable support and knowledge throughout this project
+-I would like to thank all the resources and communities that have provided invaluable support and knowledge throughout this project, especially I would like to extend my heartfelt gratitude to my professor, Dr. Menor, for his invaluable guidance, support, and encouragement throughout the development of this project. His expertise and insights have been instrumental in shaping the direction and success of this work. Finally, I would like to acknowledge my own dedication and hard work in bringing this project to fruition
