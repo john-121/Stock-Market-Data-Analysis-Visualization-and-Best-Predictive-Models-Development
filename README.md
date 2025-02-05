@@ -45,7 +45,9 @@ Results:-Nike LSTM RMSE: 53.12
 - pandas
 - numpy
 - matplotlib
+- tensorflow
 - scikit-learn
+- sklearn
 - dash
 - dash-bootstrap-components
 - others...
