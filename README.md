@@ -45,6 +45,7 @@ Results:-Nike LSTM RMSE: 53.12
 - pandas
 - numpy
 - matplotlib
+- seaborn
 - tensorflow
 - scikit-learn
 - sklearn
